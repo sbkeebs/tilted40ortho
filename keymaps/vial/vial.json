@@ -1,12 +1,12 @@
 {
-  "name": "tilted40ortho",
+  "name": "Tilted40 Ortho",
   "vendorId": "0xFEED",
   "productId": "0x6060",
   "lighting": "none",
   "matrix": { "rows": 4, "cols": 14 },
   "layouts": {
     "labels": [
-      ["Bottom row", "Ortho Grid", "Quark", "MIT", "2x2u", "7u"]
+      ["Bottom row", "Ortho Grid", "1.25/1.5", "MIT", "2x2u", "7u"]
     ],
     "keymap": [
       ["0,0",{"x":0.5},"0,1","0,2","0,3","0,4","0,5","0,6","0,7","0,8","0,9","0,10","0,11","0,12",{"x":0.5},"0,13"],
